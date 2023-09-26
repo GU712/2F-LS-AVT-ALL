@@ -42,6 +42,24 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Carga Pesada (2003-2007) - ATUALIZANDO[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C13-SRS-Carga.Pesada-ALL</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/9jz89yRGaizbKJZN9CV7697U4B8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3crCb5Oizcm8CbPo7VslCrZ4W8Z.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Carga Pesada
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANO - 2003 a 2007
+[COLOR orange]AVENTURA
+[COLOR orange]05 TEMPs - 64 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Pedro e Bino, dois caminhoneiros que rodam pelas estradas brasileiras transportando mercadorias. Em muitas ocasiões eles se envolvem em romances e, em outras, enrascadas com bandidos e na maioria das vezes se dão muito bem.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Casal 20 (1979-1983) - INCOMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C8-SRS-Casal.20-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/rK7eHDVQVYwwuxf91rmSNn6ykQn.jpg</thumbnail>
@@ -240,14 +258,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Tarzan (1966-1967) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C4-SRS-Tarzan.Serie-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/keL3WMJW45o7rd5aKDPMG3bgf1p.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/m5hwoZJVMBxHQ5RpKwvqN1NlUIF.jpg</fanart>
-<info>Assista a série Tarzan. 
-[COLOR orange][B]AVENTURA[/B][/COLOR]
-[COLOR orange][B]02 TEMPS - 57  EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 1966 a 1967[/B][/COLOR]</info>
+<name>[COLOR white][B]Tarzan (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESPs-ALL/main/B5-SEL-TARZAN-ALL</externallink>
+<thumbnail>https://i.ibb.co/hBStmqd/ESP-TARZAN-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/vc0CNgj/ESP-TARZAN-FAN-ALL.png</fanart>
+<info>[COLOR white]Conheça a seção especial: 
+[B]Tarzan
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Tarzan.
+Não encontrou o que queria ?
+Solicite ao SUPORTE AO USUÁRIO .
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
