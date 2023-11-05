@@ -15,9 +15,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/jOh79POQu4hyVIseUxdQxTW7vOf.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]A Maldição do Pérola Negra
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 2003
-[COLOR orange]AVENTURA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2003
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação.Eles desbravam os mares em direção à misteriosa Ilha da Morte.
 [/COLOR]</info>
 </item>
@@ -30,9 +30,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/8zfRLCgKrLAc5SSnACz8ZqmeKAP.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]O Baú da Morte
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 2006
-[COLOR orange]AVENTURA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2006
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O lendário pirata Davy Jones, comandante do invencível navio assombrado, aparece para cobrar uma dívida do capitão Jack Sparrow.
 [/COLOR]</info>
 </item>
@@ -45,9 +45,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/3Au8rkDVsRK2AT4jq9dg6jH6buy.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]No Fim do Mundo
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 2007
-[COLOR orange]AVENTURA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2007
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Will Turner e Elizabeth Swann unem forças com o Capitão Barbossa para libertarem Jack Sparrow da prisão de Davy Jones.
 [/COLOR]</info>
 </item>
@@ -60,9 +60,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/uzIGtyS6bbnJzGsPL93WCF1FWm8.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]Navegando em Águas Misteriosas
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 2011
-[COLOR orange]AVENTURA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2011
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O passado do capitão Jack Sparrow volta a alcançá-lo quando ele cruza com Angelica, uma bonita pirata que Jack, um dia, amou e depois abandonou.
 [/COLOR]</info>
 </item>
@@ -75,14 +75,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://www.themoviedb.org/t/p/original/7C921eWK06n12c1miRXnYoEu5Yv.jpg</fanart>
 <info>[COLOR white]Assista aqui o filme: 
 [B]A Vingança de Salazar
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]FHD DUB
-[COLOR orange]ANO - 2017
-[COLOR orange]AVENTURA
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUB
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2017
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jack, que anda passando por uma onda de azar, sente os ventos da má sorte soprando com muita força quando os marinheiros fantasmas assassinos, liderados pelo Capitão Salazar , escapam do triângulo do diabo decididos a matar todos os piratas em seu caminho.
 [/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -103,7 +104,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
