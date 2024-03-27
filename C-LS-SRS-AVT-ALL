@@ -192,7 +192,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hércules: A Lendária Jornada (1995-1999) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D1B1-SRS-Hercules.a.Lend.Jornada-SD-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C12-SRS-Hercules.a.Lend.Jornada-ALL</externallink>
 <thumbnail>https://image.tmdb.org/t/p/original/2vyxteXmZVh8zBSK9yA827Rs1sl.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4OQnb2QoifmFCe3TnUS2kxt3afM.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -340,14 +340,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Shantaram (2022) - ATUALIZANDO[/B][/COLOR]</name>
+<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Shantaram (2022) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C9-SRS-Shantaram-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/ti08KfQbBf0BfQP86ymJ8YxCSVA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4J6kXERGYlwXNAIUTIdRSo8ci83.jpg</fanart>
-<info>Assista a série Shantaram. 
-[COLOR orange][B]AVENTURA[/B][/COLOR]
-[COLOR orange][B]01 TEMPS - 11 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2022[/B][/COLOR]</info>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Shantaram
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2022
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 11 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O fugitivo Lin Ford foge para as ruas de Bombaim dos anos 1980 querendo desaparecer. Trabalhando como médico para os pobres e negligenciados da cidade, Lin encontra amor inesperado, laços e coragem no longo caminho para a redenção.
+[/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
