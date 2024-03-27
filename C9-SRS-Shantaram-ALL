@@ -1,103 +1,70 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Shantaram[/B][/COLOR]</title>
-<link>plugin://plugin.video.tubemusic/?video_id=9SSHhQRsYcM</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ti08KfQbBf0BfQP86ymJ8YxCSVA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4J6kXERGYlwXNAIUTIdRSo8ci83.jpg</fanart>
-<info>Assista ao trailer</info>
-<genre>AVENTURA</genre> 
+<title>[COLOR orange][B]TEMP 01 (2022) 11 EPs - FHD DUAL+LEG[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-TORRENTS
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]O Não De Bombaim[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Shantaram/T01/LS-T01E01.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart></item>
 
-item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Shantaram (2022) - FHD LEG[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET></link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ti08KfQbBf0BfQP86ymJ8YxCSVA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4J6kXERGYlwXNAIUTIdRSo8ci83.jpg</fanart>
-<info>O fugitivo Lin Ford foge para as ruas de Bombaim dos anos 1980 querendo desaparecer.</info>
-<genre>AVENTURA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Sem Dinheiro E Sem Teto Em Bombaim[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Shantaram/T01/LS-T01E02.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart></item>
 
-<item>
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Shantaram (2022) - FHD LEG[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Companheiros De Cama Estranhos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Shantaram/T01/LS-T01E03.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart></item>
 
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 04 EPs[/B][/COLOR]</link>			
+<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Medicina Ruim[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Shantaram/T01/LS-T01E04.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart></item>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47d9e37a971138363bf14440188c268c197d0cfc$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O nao de Bombaim [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cc19b7223db4527cc0bb4c73e433f9b44c24f7e$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Sem dinheiro e sem teto em Bombaim [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3039c6a17a90d9458b63ff985a9cc3e777783d00$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Companheiros de cama estranhos [/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3f6b018dff4770a5f6f67fe1587cc111cbc1314$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Medicina ruim [/B][/COLOR]</link>
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>
+<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]O Pecado no Crime[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Shantaram/T01/LS-T01E05.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart></item>
 
-<thumbnail>https://www.themoviedb.org/t/p/original/ti08KfQbBf0BfQP86ymJ8YxCSVA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4J6kXERGYlwXNAIUTIdRSo8ci83.jpg</fanart>
-<info>O fugitivo Lin Ford foge para as ruas de Bombaim dos anos 1980 querendo desaparecer.</info>
-<genre>AVENTURA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Homem Morto Andando[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Shantaram/T01/LS-T01E06.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart></item>
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-SERVER LS
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Apo Vai Pranah[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Shantaram/T01/LS-T01E07.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart></item>
 
-<item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Shantaram (2022) - T01 - FHD DUAL[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Como No Tempo Da Cólera[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Shantaram/T01/LS-T01E08.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart></item>
 
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 04 EPs[/B][/COLOR]</link>		
+<item><title>[COLOR orange][B]LS-T01E09[COLOR yellow] -> [COLOR white]Devo Ficar Ou Devo Ir[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Shantaram/T01/LS-T01E09.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart></item>
 
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Shantaram/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]O nao de Bombaim [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Shantaram/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Sem dinheiro e sem teto em Bombaim [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Shantaram/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Companheiros de cama estranhos [/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/6-AVT/Shantaram/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Medicina ruim [/B][/COLOR]</link>
+<item><title>[COLOR orange][B]LS-T01E10[COLOR yellow] -> [COLOR white]Cavar Dois Túmulos[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Shantaram/T01/LS-T01E10.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart></item>
 
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
+<item><title>[COLOR orange][B]LS-T01E11[COLOR yellow] -> [COLOR white]Banquete de Consequências[/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Shantaram/T01/LS-T01E11.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart></item>
 
-<thumbnail>https://www.themoviedb.org/t/p/original/ti08KfQbBf0BfQP86ymJ8YxCSVA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4J6kXERGYlwXNAIUTIdRSo8ci83.jpg</fanart>
-<info>O fugitivo Lin Ford foge para as ruas de Bombaim dos anos 1980 querendo desaparecer.</info>
-<genre>AVENTURA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item><title>[COLOR orange][B]LS-T01E12[COLOR yellow] -> [COLOR white]Vim De Lá Só Para Chegar Até Aqui [/B][/COLOR]</title>
+<link>https://luminart.ls.lsnew.workers.dev/1:/SRS/6-AVT/Shantaram/T01/LS-T01E12.mkv</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3Qz3esWXK7zixAbMm5tLZKAsFVb.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/tBL5nLSxKZbqLKd3D9btE3yiRX0.jpg</fanart></item>
 
-item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Shantaram (2022) - T02 - FHD DUAL[/B][/COLOR]</title>
-
-<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>
-<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>
-
-<thumbnail>https://www.themoviedb.org/t/p/original/ti08KfQbBf0BfQP86ymJ8YxCSVA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/4J6kXERGYlwXNAIUTIdRSo8ci83.jpg</fanart>
-<info>O fugitivo Lin Ford foge para as ruas de Bombaim dos anos 1980 querendo desaparecer.</info>
-<genre>AVENTURA</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
@@ -118,8 +85,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
 <link>ignoreme</link>				
@@ -127,5 +93,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
