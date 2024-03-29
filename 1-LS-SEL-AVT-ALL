@@ -30,24 +30,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE AVENTURA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/B-LS-COL-AVT-ALL</externallink>
-<thumbnail>https://i.ibb.co/x8chyNT/AVENTURA-COL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/P56FNr5/AVENTURA-FAN-ALL.png</fanart>
-<info>[COLOR white]Conheça a seção: 
-[B]COLEÇÕES DE FILMES DE AVENTURA
-[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
-[COLOR orange]RESUMO[COLOR yellow] -> [COLOR white]Um gênero cinematográfico onde um herói enfrenta uma série de obstáculos, exibindo coragem ao enfrentar situações que fogem ao cotidiano e normalidade.
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema. 
-Não encontrou o que queria ? 
-Peça ao SUPORTE AO USUÁRIO
-[/COLOR]</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR white][B]SÉRIES DE AVENTURA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C-LS-SRS-AVT-ALL</externallink>
 <thumbnail>https://i.ibb.co/vXSp0gv/AVENTURA-SRS-ALL.png</thumbnail>
