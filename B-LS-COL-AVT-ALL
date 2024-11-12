@@ -103,16 +103,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Hércules - Kevin Sorbo (05 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D1A-FLM-Hercules-KS-ALL</externallink>
-<thumbnail>https://i.ibb.co/PMgCLpB/COL-SORBO-ICON-FLM-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/tMDNHmZ/COL-SORBO-FAN-ALL.png</fanart>
+<name>[COLOR white][B]Hércules - Kevin Sorbo (05 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D01A-FLM-Hercules-KS-ALL</externallink>
+<thumbnail>https://i.ibb.co/ZxBN3Rb/ESP-SORBO-FLM.png</thumbnail>
+<fanart>https://i.ibb.co/nDJzbLh/ESP-SORBO-FAN.png</fanart>
 <info>[COLOR white]Conheça a seção de filmes: 
 [B]Hércules - Kevin Sorbo
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
@@ -152,16 +153,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B][COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]King Kong (05 Filmes)[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/B7-COL-King.Kong-ALL</externallink>
-<thumbnail>https://i.ibb.co/0qQNDrm/COL-KING-KONG-ICON-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/S6JfFZM/COL-KING-KONG-FAN-ALL.png</fanart>
+<name>[COLOR white][B]King Kong (05 Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/B007-COL-King.Kong-ALL</externallink>
+<thumbnail>https://i.ibb.co/FkrVCHp/ESP-KING-KONG-ICO.png</thumbnail>
+<fanart>https://i.ibb.co/b73HLYs/ESP-KING-KONG-FAN.png</fanart>
 <info>[COLOR white]Conheça a coleção: 
 [B]King Kong
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
-Não encontrou o que queria ? 
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Aqui nessa seção você vai encontrar o que já conseguimos sobre o tema.  
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
 Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
