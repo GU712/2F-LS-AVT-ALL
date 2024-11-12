@@ -1,14 +1,15 @@
-<item>				
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
-<link>NOLINK</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>				
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>	
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/0ZMvRFx/SEL-ITEM-FLM-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]King Kong (1933) - FHD DUAL[/B][/COLOR]</title>
+<title>[COLOR white][B]King Kong (1933) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/King.Kong/LS-1933.King.Kong.FHD.DUAL.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/kGmLtJmxfr7QCqQpvwGDqo7KjtW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/iCvuvNSl9LWJaxCkwBirO3gQExi.jpg</fanart>
@@ -17,13 +18,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1933
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Em uma ilha desconhecida, na qual os nativos oferecem "noivas" para Kong, um gigantesco macaco. Após muitos perigos a equipe de filmagens conseguem capturar o macaco, pois pretendem levá-lo para Nova York para ser exibido. Mas o símio se apaixona pela atriz.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Em uma ilha desconhecida, na qual os nativos oferecem "noivas" para Kong, 
+um gigantesco macaco. Após muitos perigos a equipe de filmagens conseguem capturar o macaco, pois pretendem levá-lo para Nova York para ser exibido. Mas o símio se apaixona pela atriz.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]King Kong (1976) - FHD DUB[/B][/COLOR]</title>
+<title>[COLOR white][B]King Kong (1976) - FHD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/King.Kong/LS-1976.King Kong.FHD.DUB.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/paYKhEwUaxKA05vmOfU7FlleTln.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/fg36CEsa7z4N2tVJHuk6r2YCVh0.jpg</fanart>
@@ -32,13 +37,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1976
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma expedição de exploração de petróleo chega a uma ilha isolada e encontra um colossal gorila gigante.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma expedição de exploração de petróleo chega a uma ilha isolada e encontra um colossal 
+gorila gigante.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]King Kong 2 (1986) - FHD DUAL+LEG[/B][/COLOR]</title>
+<title>[COLOR white][B]King Kong 2 (1986) - FHD DUAL+LEG[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/King.Kong/LS-1986.King.Kong.2.FHD.DUB.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/a7Rqsb7tbZWMLbiA3P8n5zuvskV.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/naYXUQJ3I9FUVL2as8QToEeMO8e.jpg</fanart>
@@ -47,13 +56,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]1986
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]O filme começa onde parou a versão de 1976, com King Kong morto sendo levado a um laboratório onde cientistas implantam um coração mecânico, mas para ressuscitar o monstro seria necessário encontrar sangue de outra criatura da mesma espécie. 
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O filme começa onde parou a versão de 1976, com King Kong morto sendo levado a um 
+laboratório onde cientistas implantam um coração mecânico, mas para ressuscitar o monstro é necessário encontrar sangue para transfusão. 
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]King Kong (2005) - FHD DUB[/B][/COLOR]</title>
+<title>[COLOR white][B]King Kong (2005) - FHD DUB[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/King.Kong/LS-2005.King.Kong.FHD.DUB.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/rdat3dqmakvhE2oRnUml9g5gZJg.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/4fdwVyY6Vb4zc7lZ8OIGGPyBy7n.jpg</fanart>
@@ -62,13 +75,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2005
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B] Carl embarca a equipe e o elenco de seu filme no cargueiro fretado S.S. Venture. O objetivo da viagem é chegar na Ilha da Caveira, que tem a fama de abrigar uma raça perdida e várias criaturas consideradas extintas.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Carl embarca a equipe e o elenco de seu filme no cargueiro fretado S.S. Venture. O objetivo 
+da viagem é chegar na Ilha da Caveira, que tem a fama de abrigar uma raça perdida e várias criaturas consideradas extintas.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Kong: A Ilha da Caveira (2017) - FHD DUAL[/B][/COLOR]</title>
+<title>[COLOR white][B]Kong: A Ilha da Caveira (2017) - FHD DUAL[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/King.Kong/LS-2017.Kong.A.Ilha.da.Caveira.FHD.DUAL.mkv</link>
 <thumbnail>https://image.tmdb.org/t/p/original/y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nVodCGKYLpqNC8YwQAbivKlWCgZ.jpg</fanart>
@@ -77,37 +94,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]FHD DUAL
 [COLOR orange]ANO[COLOR yellow] -> [COLOR white]2017
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Uma equipe de exploradores se aventura nas profundezas da ilha desconhecida no Pacífico, que é tão bonita quanto traiçoeira, sem saber que estão atravessando para o domínio do mítico Kong.
-[/COLOR]</info>
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma equipe de exploradores se aventura nas profundezas da ilha desconhecida no Pacífico, 
+que é tão bonita quanto traiçoeira, sem saber que estão atravessando para o domínio do mítico Kong.
+[/B][COLOR black].[/COLOR]
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
