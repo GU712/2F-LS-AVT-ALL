@@ -1,218 +1,413 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]Tarzan - O Rei das Selvas[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://www.themoviedb.org/t/p/original/r6LjczjwGOHIBpbtqfZdtcmo1VZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Tarzan - O Rei das Selvas
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1976 a 1979
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 47 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Na versão original, não existe Chita e sim o macaquinho Nikima. Nesse desenho, 
+Tarzan enfrenta perigos desse e de outros mundos. 
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (1976) 16 EPs - SD DUAL[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E01[COLOR yellow] -> [COLOR white]Tarzan e a cidade de ouro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Tarzan e a cidade de ouro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E02[COLOR yellow] -> [COLOR white]Tarzan e os vikings[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Tarzan e os vikings[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E03[COLOR yellow] -> [COLOR white]Tarzan e o leao de ouro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Tarzan e o leao de ouro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E04[COLOR yellow] -> [COLOR white]Tarzan e a cidade proibida[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Tarzan e a cidade proibida[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E05[COLOR yellow] -> [COLOR white]Tarzan e o cemiterio dos elefantes[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Tarzan e o cemiterio dos elefantes[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E06[COLOR yellow] -> [COLOR white]Tarzan e o retorno a cidade do ouro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Tarzan e o retorno a cidade do ouro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E07[COLOR yellow] -> [COLOR white]Tarzan e os estranhos visitantes[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Tarzan e os estranhos visitantes[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E08[COLOR yellow] -> [COLOR white]Tarzan e a Terra dos Gigantes[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Tarzan e a Terra dos Gigantes[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E09[COLOR yellow] -> [COLOR white]Tarzan e os Cavaleiros do Nimmr[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E09[COLOR yellow] -> [COLOR white]Tarzan e os Cavaleiros do Nimmr[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E10[COLOR yellow] -> [COLOR white]O Rival de Tarzan[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E10[COLOR yellow] -> [COLOR white]O Rival de Tarzan[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E11[COLOR yellow] -> [COLOR white]Tarzan e a Cidade da Magia[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Tarzan e a Cidade da Magia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E12[COLOR yellow] -> [COLOR white]Uma Estranha Aventura[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Uma Estranha Aventura[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E13[COLOR yellow] -> [COLOR white]Tarzan e a criatura do gelo[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E13[COLOR yellow] -> [COLOR white]Tarzan e a criatura do gelo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E14[COLOR yellow] -> [COLOR white]Tarzan e as olimpiadas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E14[COLOR yellow] -> [COLOR white]Tarzan e as olimpiadas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E15[COLOR yellow] -> [COLOR white]O Julgamento de Tarzan[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E15[COLOR yellow] -> [COLOR white]O Julgamento de Tarzan[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T01E16[COLOR yellow] -> [COLOR white]Tarzan o odiado[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T01E16[COLOR yellow] -> [COLOR white]Tarzan o odiado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T01/LS-T01E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/1BVdRMg2hCzZ58WzbEwoUnxwvP0.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 02 (1977) 06 EPs - SD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/toYSl2ExHIoD0tbmxB4ej7Wgana.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T02E01[COLOR yellow] -> [COLOR white]Atlantida A Cidade Submersa[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Atlantida A Cidade Submersa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T02/LS-T02E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/toYSl2ExHIoD0tbmxB4ej7Wgana.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T02E02[COLOR yellow] -> [COLOR white]Tarzan e o Povo Passaro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Tarzan e o Povo Passaro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T02/LS-T02E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/toYSl2ExHIoD0tbmxB4ej7Wgana.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T02E03[COLOR yellow] -> [COLOR white]Tarzan e il Colosso di Zome[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Tarzan e il Colosso di Zome[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T02/LS-T02E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/toYSl2ExHIoD0tbmxB4ej7Wgana.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T02E04[COLOR yellow] -> [COLOR white]A Fera de Mascara de Ferro[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]A Fera de Mascara de Ferro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T02/LS-T02E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/toYSl2ExHIoD0tbmxB4ej7Wgana.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T02E05[COLOR yellow] -> [COLOR white]Tarzan e a Princesa Amazona[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]Tarzan e a Princesa Amazona[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T02/LS-T02E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/toYSl2ExHIoD0tbmxB4ej7Wgana.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T02E06[COLOR yellow] -> [COLOR white]Tarzan e os Conquistadores[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Tarzan e os Conquistadores[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T02/LS-T02E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/toYSl2ExHIoD0tbmxB4ej7Wgana.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 03 (1978) 06 EPs - SD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/dsUeHdkxGmClgKfoboGEoykasAA.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T03E01[COLOR yellow] -> [COLOR white]Tarzan e o Povo Aranha[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Tarzan e o Povo Aranha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T03/LS-T03E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/dsUeHdkxGmClgKfoboGEoykasAA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T03E02[COLOR yellow] -> [COLOR white]Tarzan e o Deus do Espaço[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Tarzan e o Deus do Espaço[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T03/LS-T03E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/dsUeHdkxGmClgKfoboGEoykasAA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T03E03[COLOR yellow] -> [COLOR white]Tarzan e o Mundo Perdido[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Tarzan e o Mundo Perdido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T03/LS-T03E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/dsUeHdkxGmClgKfoboGEoykasAA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T03E04[COLOR yellow] -> [COLOR white]Tarzan e o Deus Macaco[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Tarzan e o Deus Macaco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T03/LS-T03E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/dsUeHdkxGmClgKfoboGEoykasAA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T03E05[COLOR yellow] -> [COLOR white]Tarzan e Uma Estranha Aventura[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Tarzan e Uma Estranha Aventura[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T03/LS-T03E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/dsUeHdkxGmClgKfoboGEoykasAA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T03E06[COLOR yellow] -> [COLOR white]Tarzan e a Ilha do Dr. Morphos Ingles[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Tarzan e a Ilha do Dr. Morphos Ingles[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T03/LS-T03E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/dsUeHdkxGmClgKfoboGEoykasAA.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 04 (1979) 08 EPs - SD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/yQWi1FO8J8E4bWZHjHxSRzpL6Ty.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/04.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T04E01[COLOR yellow] -> [COLOR white]Tarzan o Desafio[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Tarzan o Desafio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T04/LS-T04E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yQWi1FO8J8E4bWZHjHxSRzpL6Ty.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T04E02[COLOR yellow] -> [COLOR white]Tarzan e Jane[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Tarzan e Jane[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T04/LS-T04E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yQWi1FO8J8E4bWZHjHxSRzpL6Ty.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T04E03[COLOR yellow] -> [COLOR white]Tarzan e o Segredos Sobre a Terra[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Tarzan e o Segredos Sobre a Terra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T04/LS-T04E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yQWi1FO8J8E4bWZHjHxSRzpL6Ty.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T04E04[COLOR yellow] -> [COLOR white]Tarzan e a Seca[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Tarzan e a Seca[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T04/LS-T04E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yQWi1FO8J8E4bWZHjHxSRzpL6Ty.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T04E05[COLOR yellow] -> [COLOR white]Tarzan e a Ladra de Almas[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Tarzan e a Ladra de Almas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T04/LS-T04E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yQWi1FO8J8E4bWZHjHxSRzpL6Ty.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T04E06[COLOR yellow] -> [COLOR white]Tarzan e o Futuro Rei[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Tarzan e o Futuro Rei[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T04/LS-T04E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yQWi1FO8J8E4bWZHjHxSRzpL6Ty.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T04E07[COLOR yellow] -> [COLOR white]Tarzan e a Caçadora[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Tarzan e a Caçadora[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T04/LS-T04E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yQWi1FO8J8E4bWZHjHxSRzpL6Ty.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange]LS-T04E08[COLOR yellow] -> [COLOR white]Tarzan e o Elefante Branco[/B][/COLOR]</title>
+<item><title>[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Tarzan e o Elefante Branco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Tarzan/DSH/O.Rei.das.Selvas/T04/LS-T04E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yQWi1FO8J8E4bWZHjHxSRzpL6Ty.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://www.themoviedb.org/t/p/original/s49fmJ0yopHa8GM6cyWObd4GkPk.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
