@@ -1,719 +1,1464 @@
 <item>	
 <title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>	
 <link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>		
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE </info>	
+<thumbnail>https://i.ibb.co/NWfgpVX/SEL-ITEM-SRS-ICON.png</thumbnail>				
+<fanart>https://i.ibb.co/6N5djff/FAN-2.png</fanart>		
+<info>FAÇA SUA ESCOLHA 
+E DIVIRTA-SE </info>	
 </item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>	
+<title>[COLOR orange][B]Largados e Pelados[/B][/COLOR]</title>	
+<link>NOLINK</link>	
+<thumbnail>https://image.tmdb.org/t/p/original/gPFDYS5i5GTZBWiB7R33eFURR5f.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]Largados e Pelados
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2013 a 2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]17 TEMPs - +150 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Logo depois de se conhecerem, os sobreviventes seguem para um local designado onde 
+terão que produzir ou encontrar água, alimento e abrigo a partir do que encontrarem na natureza
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>	
+</item>	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
 <title>[COLOR orange][B]TEMP 01 (2013) 08 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/96xYnEBnstGWzB0huzhIeQ4SyJ8.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/01.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white]A Maldição da Selva[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/96xYnEBnstGWzB0huzhIeQ4SyJ8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]A Maldição da Selva[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E01.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white]Terror na Tanzânia[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/96xYnEBnstGWzB0huzhIeQ4SyJ8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Terror na Tanzânia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E02.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white]Ilha do Inferno[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/96xYnEBnstGWzB0huzhIeQ4SyJ8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Ilha do Inferno[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E03.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E04[COLOR yellow] -> [COLOR white]Punição no Panamá[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/96xYnEBnstGWzB0huzhIeQ4SyJ8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]Punição no Panamá[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E04.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E05[COLOR yellow] -> [COLOR white]Quebrando Bornéu[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/96xYnEBnstGWzB0huzhIeQ4SyJ8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Quebrando Bornéu[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E05.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E06[COLOR yellow] -> [COLOR white]Cuidado com o Bayou[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/96xYnEBnstGWzB0huzhIeQ4SyJ8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]Cuidado com o Bayou[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E06.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E07[COLOR yellow] -> [COLOR white]Bares Todos[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/96xYnEBnstGWzB0huzhIeQ4SyJ8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Bares Todos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E07.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T01E08[COLOR yellow] -> [COLOR white]Dupla Penalização[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/96xYnEBnstGWzB0huzhIeQ4SyJ8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]Dupla Penalização[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T01/LS-T01E08.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 02 (2014) 06 EPs - HD DUB[/B][/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 02 (2014) 06 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/nn43Ew2Q9F73y4BKVlvtwWPybw8.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/02.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E01[COLOR yellow] -> [COLOR white]Homem vs Amazônia[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T02/LS-T02E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nn43Ew2Q9F73y4BKVlvtwWPybw8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]Homem vs Amazônia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T02/LS-T02E01.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E02[COLOR yellow] -> [COLOR white]Condenado na África[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T02/LS-T02E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nn43Ew2Q9F73y4BKVlvtwWPybw8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]Condenado na África[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T02/LS-T02E02.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E03[COLOR yellow] -> [COLOR white]Paraíso Perdido[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T02/LS-T02E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nn43Ew2Q9F73y4BKVlvtwWPybw8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]Paraíso Perdido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T02/LS-T02E03.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E04[COLOR yellow] -> [COLOR white]Miséria Maia[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T02/LS-T02E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nn43Ew2Q9F73y4BKVlvtwWPybw8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]Miséria Maia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T02/LS-T02E04.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E05[COLOR yellow] -> [COLOR white]A Floresta da Dor[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T02/LS-T02E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nn43Ew2Q9F73y4BKVlvtwWPybw8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]A Floresta da Dor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T02/LS-T02E05.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T02E06[COLOR yellow] -> [COLOR white]Fusão Na Bolívia[/B][/COLOR]</title>
-<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T02/LS-T02E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/nn43Ew2Q9F73y4BKVlvtwWPybw8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<item><title>[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]Fusão Na Bolívia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title>
+<link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T02/LS-T02E06.mp4</link>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 03 (2014) 10 EPs - FHD HD DUB[/B][/B][/COLOR]</title>
+<title>[COLOR orange][B]TEMP 03 (2014) 10 EPs - FHD HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/vwmDosV5mW1JKIwDJTBU5cIOEU0.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/03.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E01[COLOR yellow] -> [COLOR white]Medo Primitivo[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Medo Primitivo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T03/LS-T03E01.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vwmDosV5mW1JKIwDJTBU5cIOEU0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E02[COLOR yellow] -> [COLOR white]Sangue na Água[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]Sangue na Água[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T03/LS-T03E02.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vwmDosV5mW1JKIwDJTBU5cIOEU0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E03[COLOR yellow] -> [COLOR white]Corações das Trevas[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Corações das Trevas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T03/LS-T03E03.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vwmDosV5mW1JKIwDJTBU5cIOEU0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E04[COLOR yellow] -> [COLOR white]Amor na Selva[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]Amor na Selva[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T03/LS-T03E04.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vwmDosV5mW1JKIwDJTBU5cIOEU0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E05[COLOR yellow] -> [COLOR white]Argentina Impossível[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]Argentina Impossível[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T03/LS-T03E05.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vwmDosV5mW1JKIwDJTBU5cIOEU0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E06[COLOR yellow] -> [COLOR white]Brincando com Fogo[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Brincando com Fogo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T03/LS-T03E06.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vwmDosV5mW1JKIwDJTBU5cIOEU0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E07[COLOR yellow] -> [COLOR white]Inferno do Himalaia[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Inferno do Himalaia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T03/LS-T03E07.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vwmDosV5mW1JKIwDJTBU5cIOEU0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E08[COLOR yellow] -> [COLOR white]Pesadelo da Nicarágua[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]Pesadelo da Nicarágua[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T03/LS-T03E08.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vwmDosV5mW1JKIwDJTBU5cIOEU0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E09[COLOR yellow] -> [COLOR white]Discriminação do Botswana[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T03E09[COLOR yellow] -> [COLOR white]Discriminação do Botswana[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T03/LS-T03E09.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vwmDosV5mW1JKIwDJTBU5cIOEU0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T03E10[COLOR yellow] -> [COLOR white]Dunas do Desespero[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T03E10[COLOR yellow] -> [COLOR white]Dunas do Desespero[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T03/LS-T03E10.mp4</link>
-<thumbnail>https://image.tmdb.org/t/p/original/vwmDosV5mW1JKIwDJTBU5cIOEU0.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 04 (2015) 11 EPs - FHD HD DUB[/B][/COLOR]</title></title>
+<title>[COLOR orange][B]TEMP 04 (2015) 11 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/hsPCQHsJhCXqVIDXeA9FekV5dqI.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/04.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E01[COLOR yellow] -> [COLOR white]Beco do Jacaré[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T04E01[COLOR yellow] -> [COLOR white]Beco do Jacaré[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T04/LS-T04E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/hsPCQHsJhCXqVIDXeA9FekV5dqI.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E02[COLOR yellow] -> [COLOR white]Ronco na Selva[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T04E02[COLOR yellow] -> [COLOR white]Ronco na Selva[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T04/LS-T04E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/hsPCQHsJhCXqVIDXeA9FekV5dqI.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E03[COLOR yellow] -> [COLOR white]Sacrifício Maia[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T04E03[COLOR yellow] -> [COLOR white]Sacrifício Maia[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T04/LS-T04E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/hsPCQHsJhCXqVIDXeA9FekV5dqI.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E04[COLOR yellow] -> [COLOR white]Borda da Loucura[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T04E04[COLOR yellow] -> [COLOR white]Borda da Loucura[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T04/LS-T04E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/hsPCQHsJhCXqVIDXeA9FekV5dqI.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E05[COLOR yellow] -> [COLOR white]Fogo na Montanha[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T04E05[COLOR yellow] -> [COLOR white]Fogo na Montanha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T04/LS-T04E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/hsPCQHsJhCXqVIDXeA9FekV5dqI.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E06[COLOR yellow] -> [COLOR white]Senhor dos Ratos[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T04E06[COLOR yellow] -> [COLOR white]Senhor dos Ratos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T04/LS-T04E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/hsPCQHsJhCXqVIDXeA9FekV5dqI.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E07[COLOR yellow] -> [COLOR white]Conflito Colombiano[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T04E07[COLOR yellow] -> [COLOR white]Conflito Colombiano[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T04/LS-T04E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/hsPCQHsJhCXqVIDXeA9FekV5dqI.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E08[COLOR yellow] -> [COLOR white]Jardim do Mal[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T04E08[COLOR yellow] -> [COLOR white]Jardim do Mal[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T04/LS-T04E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/hsPCQHsJhCXqVIDXeA9FekV5dqI.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E09[COLOR yellow] -> [COLOR white]Estrada de Redenção[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T04E09[COLOR yellow] -> [COLOR white]Estrada de Redenção[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T04/LS-T04E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/hsPCQHsJhCXqVIDXeA9FekV5dqI.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E10[COLOR yellow] -> [COLOR white]Surthrive[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T04E10[COLOR yellow] -> [COLOR white]Surthrive[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T04/LS-T04E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/hsPCQHsJhCXqVIDXeA9FekV5dqI.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T04E11[COLOR yellow] -> [COLOR white]Mais Fácil Dizer Do Que Fazer[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T04E11[COLOR yellow] -> [COLOR white]Mais Fácil Dizer Do Que Fazer[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T04/LS-T04E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/hsPCQHsJhCXqVIDXeA9FekV5dqI.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 05 (2015) 07 EPs - FHD HD DUB[/B][/COLOR]</title></title>
+<title>[COLOR orange][B]TEMP 05 (2015) 07 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/15YAx36DtfjbpFCjf4RKlt5U260.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/05.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E01[COLOR yellow] -> [COLOR white]Abandonado[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T05E01[COLOR yellow] -> [COLOR white]Abandonado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T05/LS-T05E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/15YAx36DtfjbpFCjf4RKlt5U260.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E02[COLOR yellow] -> [COLOR white]Tema O Desconhecido[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T05E02[COLOR yellow] -> [COLOR white]Tema O Desconhecido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T05/LS-T05E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/15YAx36DtfjbpFCjf4RKlt5U260.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E03[COLOR yellow] -> [COLOR white]A Hora Mais Negra[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T05E03[COLOR yellow] -> [COLOR white]A Hora Mais Negra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T05/LS-T05E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/15YAx36DtfjbpFCjf4RKlt5U260.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E04[COLOR yellow] -> [COLOR white]O Enxame[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T05E04[COLOR yellow] -> [COLOR white]O Enxame[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T05/LS-T05E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/15YAx36DtfjbpFCjf4RKlt5U260.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E05[COLOR yellow] -> [COLOR white]Tudo Ou Nada[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T05E05[COLOR yellow] -> [COLOR white]Tudo Ou Nada[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T05/LS-T05E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/15YAx36DtfjbpFCjf4RKlt5U260.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E06[COLOR yellow] -> [COLOR white]Suor de Sangue e Medo[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T05E06[COLOR yellow] -> [COLOR white]Suor de Sangue e Medo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T05/LS-T05E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/15YAx36DtfjbpFCjf4RKlt5U260.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T05E07[COLOR yellow] -> [COLOR white]Contaminação[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T05E07[COLOR yellow] -> [COLOR white]Contaminação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T05/LS-T05E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/15YAx36DtfjbpFCjf4RKlt5U260.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 06 (2016) 06 EPs - FHD HD DUB[/B][/COLOR]</title></title>
+<title>[COLOR orange][B]TEMP 06 (2016) 06 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/06.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T06E01[COLOR yellow] -> [COLOR white]Rei da Floresta[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T06E01[COLOR yellow] -> [COLOR white]Rei da Floresta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T06/LS-T06E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T06E02[COLOR yellow] -> [COLOR white]Congelado no Medo[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T06E02[COLOR yellow] -> [COLOR white]Congelado no Medo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T06/LS-T06E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T06E03[COLOR yellow] -> [COLOR white]Subir Acima[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T06E03[COLOR yellow] -> [COLOR white]Subir Acima[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T06/LS-T06E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T06E04[COLOR yellow] -> [COLOR white]Vindo Das Cinzas[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T06E04[COLOR yellow] -> [COLOR white]Vindo Das Cinzas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T06/LS-T06E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T06E05[COLOR yellow] -> [COLOR white]Tudo Desmorona[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T06E05[COLOR yellow] -> [COLOR white]Tudo Desmorona[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T06/LS-T06E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T06E06[COLOR yellow] -> [COLOR white]Contaminação[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T06E06[COLOR yellow] -> [COLOR white]Contaminação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T06/LS-T06E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T06E07[COLOR yellow] -> [COLOR white]Inferno Ou Água Alta[/B][/COLOR]</title></title>
+item><title>[COLOR orange][B]LS-T06E07[COLOR yellow] -> [COLOR white]Inferno Ou Água Alta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T06/LS-T06E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T06E08[COLOR yellow] -> [COLOR white]O Perigo Interno[/B][/COLOR]</title></title>
+item><title>[COLOR orange][B]LS-T06E08[COLOR yellow] -> [COLOR white]O Perigo Interno[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T06/LS-T06E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T06E09[COLOR yellow] -> [COLOR white]Derreter Sob[/B][/COLOR]</title></title>
+item><title>[COLOR orange][B]LS-T06E09[COLOR yellow] -> [COLOR white]Derreter Sob[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T06/LS-T06E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T06E10[COLOR yellow] -> [COLOR white]Sangue Ruim[/B][/COLOR]</title></title>
+item><title>[COLOR orange][B]LS-T06E10[COLOR yellow] -> [COLOR white]Sangue Ruim[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T06/LS-T06E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T06E11[COLOR yellow] -> [COLOR white]Força Na Dor[/B][/COLOR]</title></title>
+item><title>[COLOR orange][B]LS-T06E11[COLOR yellow] -> [COLOR white]Força Na Dor[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T06/LS-T06E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T06E12[COLOR yellow] -> [COLOR white]23 Dias[/B][/COLOR]</title></title>
+item><title>[COLOR orange][B]LS-T06E12[COLOR yellow] -> [COLOR white]23 Dias[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T06/LS-T06E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/egPdG9BR0a1nZsL7o1IFZ7lVlVd.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 07 (2017) 11 EPs - FHD HD DUB[/B][/COLOR]</title></title>
+<title>[COLOR orange][B]TEMP 07 (2017) 11 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/07.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T07E01[COLOR yellow] -> [COLOR white]Olho Da Tempestade[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T07E01[COLOR yellow] -> [COLOR white]Olho Da Tempestade[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T07/LS-T07E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T07E02[COLOR yellow] -> [COLOR white]Lavado[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T07E02[COLOR yellow] -> [COLOR white]Lavado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T07/LS-T07E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T07E03[COLOR yellow] -> [COLOR white]Faminto[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T07E03[COLOR yellow] -> [COLOR white]Faminto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T07/LS-T07E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T07E04[COLOR yellow] -> [COLOR white]Cinzas Às Cinzas[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T07E04[COLOR yellow] -> [COLOR white]Cinzas Às Cinzas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T07/LS-T07E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T07E05[COLOR yellow] -> [COLOR white]O Mundo Perdido[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T07E05[COLOR yellow] -> [COLOR white]O Mundo Perdido[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T07/LS-T07E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T07E06[COLOR yellow] -> [COLOR white]O Monstro[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T07E06[COLOR yellow] -> [COLOR white]O Monstro[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T07/LS-T07E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T07E07[COLOR yellow] -> [COLOR white]Desequilibrado[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T07E07[COLOR yellow] -> [COLOR white]Desequilibrado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T07/LS-T07E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T07E08[COLOR yellow] -> [COLOR white]Maldição Do Pântano (Parte 1)[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T07E08[COLOR yellow] -> [COLOR white]Maldição Do Pântano (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T07/LS-T07E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T07E09[COLOR yellow] -> [COLOR white]Maldição Do Pântano (Parte 2)[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T07E09[COLOR yellow] -> [COLOR white]Maldição Do Pântano (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T07/LS-T07E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T07E10[COLOR yellow] -> [COLOR white]Sobrecarga De Aracnídeo[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T07E10[COLOR yellow] -> [COLOR white]Sobrecarga De Aracnídeo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T07/LS-T07E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T07E11[COLOR yellow] -> [COLOR white]Mundos Colidem[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T07E11[COLOR yellow] -> [COLOR white]Mundos Colidem[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T07/LS-T07E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-item><title>[COLOR orange][B]LS-T07E12[COLOR yellow] -> [COLOR white]Perdido No Mar[/B][/COLOR]</title></title>
+item><title>[COLOR orange][B]LS-T07E12[COLOR yellow] -> [COLOR white]Perdido No Mar[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T07/LS-T07E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mmGgLPDCGA6JL1XW6DTo7CtkdrP.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 08 (2017) 05 EPs - FHD HD DUB[/B][/COLOR]</title></title>
+<title>[COLOR orange][B]TEMP 08 (2017) 05 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/f9Ufv4IEWdPG9cYdkmJh6ic9033.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/08.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T08E01[COLOR yellow] -> [COLOR white]Tortura Texana[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T08E01[COLOR yellow] -> [COLOR white]Tortura Texana[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T08/LS-T08E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/f9Ufv4IEWdPG9cYdkmJh6ic9033.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T08E02[COLOR yellow] -> [COLOR white]O Caçado[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T08E02[COLOR yellow] -> [COLOR white]O Caçado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T08/LS-T08E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/f9Ufv4IEWdPG9cYdkmJh6ic9033.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T08E03[COLOR yellow] -> [COLOR white]Chuva de Terror[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T08E03[COLOR yellow] -> [COLOR white]Chuva de Terror[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T08/LS-T08E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/f9Ufv4IEWdPG9cYdkmJh6ic9033.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T08E04[COLOR yellow] -> [COLOR white]Pedra Fria[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T08E04[COLOR yellow] -> [COLOR white]Pedra Fria[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T08/LS-T08E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/f9Ufv4IEWdPG9cYdkmJh6ic9033.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T08E05[COLOR yellow] -> [COLOR white]Quebra De Belize[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T08E05[COLOR yellow] -> [COLOR white]Quebra De Belize[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T08/LS-T08E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/f9Ufv4IEWdPG9cYdkmJh6ic9033.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 09 (2018) 15 EPs - FHD HD DUB[/B][/COLOR]</title></title>
+<title>[COLOR orange][B]TEMP 09 (2018) 15 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/09.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E01[COLOR yellow] -> [COLOR white]Categoria  De Sobrevivência[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E01[COLOR yellow] -> [COLOR white]Categoria  De Sobrevivência[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E02[COLOR yellow] -> [COLOR white]Um Parafuso Solto[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E02[COLOR yellow] -> [COLOR white]Um Parafuso Solto[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E03[COLOR yellow] -> [COLOR white]Rainha Do Pântano[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E03[COLOR yellow] -> [COLOR white]Rainha Do Pântano[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E04[COLOR yellow] -> [COLOR white]Fruta Proibida[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E04[COLOR yellow] -> [COLOR white]Fruta Proibida[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E05[COLOR yellow] -> [COLOR white]Ilha Das Lágrimas[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E05[COLOR yellow] -> [COLOR white]Ilha Das Lágrimas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E06[COLOR yellow] -> [COLOR white]Ladrões Da Noite[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E06[COLOR yellow] -> [COLOR white]Ladrões Da Noite[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E07[COLOR yellow] -> [COLOR white]Amor Na Primeira Luta[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E07[COLOR yellow] -> [COLOR white]Amor Na Primeira Luta[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E08[COLOR yellow] -> [COLOR white]Queimado Até Ficar Crocante[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E08[COLOR yellow] -> [COLOR white]Queimado Até Ficar Crocante[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E09[COLOR yellow] -> [COLOR white]Carregado Para o Urso[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E09[COLOR yellow] -> [COLOR white]Carregado Para o Urso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E10[COLOR yellow] -> [COLOR white]Escolha Seu Veneno[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E10[COLOR yellow] -> [COLOR white]Escolha Seu Veneno[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E11[COLOR yellow] -> [COLOR white]Problemas No Paraíso[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E11[COLOR yellow] -> [COLOR white]Problemas No Paraíso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E12[COLOR yellow] -> [COLOR white]Ventilador[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E12[COLOR yellow] -> [COLOR white]Ventilador[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E13[COLOR yellow] -> [COLOR white]Pelado E Com Medo De Tubarões[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E13[COLOR yellow] -> [COLOR white]Pelado E Com Medo De Tubarões[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E14[COLOR yellow] -> [COLOR white]Cego[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E14[COLOR yellow] -> [COLOR white]Cego[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T09E15[COLOR yellow] -> [COLOR white]Fogo E Fúria[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T09E15[COLOR yellow] -> [COLOR white]Fogo E Fúria[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T09/LS-T09E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/aNUNs4BFRK4eEqS0wwEVbsi2fou.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 10 (2019) 20 EPs - FHD HD DUB[/B][/COLOR]</title></title>
+<title>[COLOR orange][B]TEMP 10 (2019) 20 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/10.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T10E01[COLOR yellow] -> [COLOR white]Pelados Ficam Estranhos[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E01[COLOR yellow] -> [COLOR white]Pelados Ficam Estranhos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E02[COLOR yellow] -> [COLOR white]Congelado e Largado[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E02[COLOR yellow] -> [COLOR white]Congelado e Largado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E03[COLOR yellow] -> [COLOR white]Você Tem Outro Ferrão Vindo[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E03[COLOR yellow] -> [COLOR white]Você Tem Outro Ferrão Vindo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E04[COLOR yellow] -> [COLOR white]Sem Segurança Em Números[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E04[COLOR yellow] -> [COLOR white]Sem Segurança Em Números[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E05[COLOR yellow] -> [COLOR white]Trio[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E05[COLOR yellow] -> [COLOR white]Trio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E06[COLOR yellow] -> [COLOR white]Alasca Assado[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E06[COLOR yellow] -> [COLOR white]Alasca Assado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E07[COLOR yellow] -> [COLOR white]Pisoteando Terrenos[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E07[COLOR yellow] -> [COLOR white]Pisoteando Terrenos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E08[COLOR yellow] -> [COLOR white]Clube da Mordida[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E08[COLOR yellow] -> [COLOR white]Clube da Mordida[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E09[COLOR yellow] -> [COLOR white]Os Espíritos Estão Com Raiva[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E09[COLOR yellow] -> [COLOR white]Os Espíritos Estão Com Raiva[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E10[COLOR yellow] -> [COLOR white]Perseguido Por Todos Os Lados[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E10[COLOR yellow] -> [COLOR white]Perseguido Por Todos Os Lados[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E11[COLOR yellow] -> [COLOR white]Pelado e Assombrado[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E11[COLOR yellow] -> [COLOR white]Pelado e Assombrado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E12[COLOR yellow] -> [COLOR white]O Pântano Não Se Importa[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E12[COLOR yellow] -> [COLOR white]O Pântano Não Se Importa[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E13[COLOR yellow] -> [COLOR white]Qual É O Pato?[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E13[COLOR yellow] -> [COLOR white]Qual É O Pato?[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E14[COLOR yellow] -> [COLOR white]Para Melhor Ou Muito Pior[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E14[COLOR yellow] -> [COLOR white]Para Melhor Ou Muito Pior[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E15[COLOR yellow] -> [COLOR white]Não Deixe Os Insetos Da Selva Morderem[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E15[COLOR yellow] -> [COLOR white]Não Deixe Os Insetos Da Selva Morderem[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E16[COLOR yellow] -> [COLOR white]Derretimento Na Montanha[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E16[COLOR yellow] -> [COLOR white]Derretimento Na Montanha[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E17[COLOR yellow] -> [COLOR white]Estou Brincando[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E17[COLOR yellow] -> [COLOR white]Estou Brincando[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E17.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E18[COLOR yellow] -> [COLOR white]Inferno Hondurenho[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E18[COLOR yellow] -> [COLOR white]Inferno Hondurenho[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E18.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E19[COLOR yellow] -> [COLOR white]Perseguido na Savana (Parte 1)[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E19[COLOR yellow] -> [COLOR white]Perseguido na Savana (Parte 1)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E19.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T10E20[COLOR yellow] -> [COLOR white]Perseguido na Savana (Parte 2)[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T10E20[COLOR yellow] -> [COLOR white]Perseguido na Savana (Parte 2)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E20.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-item><title>[COLOR orange][B]LS-T10E21[COLOR yellow] -> [COLOR white]Sentir A Queimadura[/B][/COLOR]</title></title>
+item><title>[COLOR orange][B]LS-T10E21[COLOR yellow] -> [COLOR white]Sentir A Queimadura[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T10/LS-T10E21.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/mrNFigG6Fnf6xtt6dvDOTa7Ii2n.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 11 (2020) 25 EPs - FHD HD DUB[/B][/COLOR]</title></title>
+<title>[COLOR orange][B]TEMP 11 (2020) 25 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/11.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T11E01[COLOR yellow] -> [COLOR white]Sozinho: Homem Para Cima Ou Para Fora[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E01[COLOR yellow] -> [COLOR white]Sozinho: Homem Para Cima Ou Para Fora[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E02[COLOR yellow] -> [COLOR white]Sozinho: Gary Da Selva[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E02[COLOR yellow] -> [COLOR white]Sozinho: Gary Da Selva[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E03[COLOR yellow] -> [COLOR white]Sozinho: Caçado E Assombrado[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E03[COLOR yellow] -> [COLOR white]Sozinho: Caçado E Assombrado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E04[COLOR yellow] -> [COLOR white]Sozinho: Em Chamas E Confuso[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E04[COLOR yellow] -> [COLOR white]Sozinho: Em Chamas E Confuso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E05[COLOR yellow] -> [COLOR white]Sozinho: Max Empurrado Ao Máximo[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E05[COLOR yellow] -> [COLOR white]Sozinho: Max Empurrado Ao Máximo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E06[COLOR yellow] -> [COLOR white]Sozinho: Solitário Como O Lobo[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E06[COLOR yellow] -> [COLOR white]Sozinho: Solitário Como O Lobo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E07[COLOR yellow] -> [COLOR white]Geminação[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E07[COLOR yellow] -> [COLOR white]Geminação[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E08[COLOR yellow] -> [COLOR white]Sozinho: Sobreviva Ou Ky Tryin[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E08[COLOR yellow] -> [COLOR white]Sozinho: Sobreviva Ou Ky Tryin[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E09[COLOR yellow] -> [COLOR white]Pequena Pessoa, Grande Desafio[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E09[COLOR yellow] -> [COLOR white]Pequena Pessoa, Grande Desafio[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E10[COLOR yellow] -> [COLOR white]Drama Das Bahamas[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E10[COLOR yellow] -> [COLOR white]Drama Das Bahamas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E11[COLOR yellow] -> [COLOR white]Sozinho: Soltando[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E11[COLOR yellow] -> [COLOR white]Sozinho: Soltando[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E12[COLOR yellow] -> [COLOR white]Dois Tarzans, Uma Jane[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E12[COLOR yellow] -> [COLOR white]Dois Tarzans, Uma Jane[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E12.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/12.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E13[COLOR yellow] -> [COLOR white]Nua E Fantasma[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E13[COLOR yellow] -> [COLOR white]Nua E Fantasma[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E13.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/13.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E14[COLOR yellow] -> [COLOR white]Encontros Íntimos[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E14[COLOR yellow] -> [COLOR white]Encontros Íntimos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E14.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/14.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E15[COLOR yellow] -> [COLOR white]Muito Profundo[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E15[COLOR yellow] -> [COLOR white]Muito Profundo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E15.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/15.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E16[COLOR yellow] -> [COLOR white]Sangue, Suor E Medos[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E16[COLOR yellow] -> [COLOR white]Sangue, Suor E Medos[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E16.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/16.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E17[COLOR yellow] -> [COLOR white]Tentando Lidar Com O Diabo[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E17[COLOR yellow] -> [COLOR white]Tentando Lidar Com O Diabo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E17.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/17.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E18[COLOR yellow] -> [COLOR white]Mordendo De Volta Na África[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E18[COLOR yellow] -> [COLOR white]Mordendo De Volta Na África[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E18.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/18.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E19[COLOR yellow] -> [COLOR white]Agitado E Muito Agitado[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E19[COLOR yellow] -> [COLOR white]Agitado E Muito Agitado[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E19.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/19.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E20[COLOR yellow] -> [COLOR white]Amazonado Fora[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E20[COLOR yellow] -> [COLOR white]Amazonado Fora[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E20.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/20.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E21[COLOR yellow] -> [COLOR white]Anel De Fogo[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E21[COLOR yellow] -> [COLOR white]Anel De Fogo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E21.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/21.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E22[COLOR yellow] -> [COLOR white] Milhas,  Dias[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E22[COLOR yellow] -> [COLOR white] Milhas,  Dias[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E22.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/22.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E23[COLOR yellow] -> [COLOR white]Lua De Mel Do Inferno[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E23[COLOR yellow] -> [COLOR white]Lua De Mel Do Inferno[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E23.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/23.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E24[COLOR yellow] -> [COLOR white]Não Se Afunde[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E24[COLOR yellow] -> [COLOR white]Não Se Afunde[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E24.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/24.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T11E25[COLOR yellow] -> [COLOR white]Atordoamento Da Neve[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T11E25[COLOR yellow] -> [COLOR white]Atordoamento Da Neve[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T11/LS-T11E25.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/7MP5tl0I0tTnvV2n5b2Et4blFu8.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/25.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 <item>
-<title>[COLOR orange][B]TEMP 12 (2021) 08 EPs - FHD HD DUB[/B][/COLOR]</title></title>
+<title>[COLOR orange][B]TEMP 12 (2021) 08 EPs - HD DUB[/B][/COLOR]</title>
 <link>NOLINK</link>	
-<thumbnail>https://image.tmdb.org/t/p/original/yaUAUKSHGVsWxjz2YhBmuHkkFvN.jpg</thumbnail>
+<thumbnail>https://ls.lsnew.workers.dev/2:/TMPS/12.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+<info>[B]FAÇA SUA ESCOLHA 
+E DIVIRTA-SE[/B]</info>		
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item><title>[COLOR orange][B]LS-T12E01[COLOR yellow] -> [COLOR white]Sem Chuva, Sem Ganho[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T12E01[COLOR yellow] -> [COLOR white]Sem Chuva, Sem Ganho[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T12/LS-T12E01.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yaUAUKSHGVsWxjz2YhBmuHkkFvN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/01.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T12E02[COLOR yellow] -> [COLOR white]Clube de Milha de Altura[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T12E02[COLOR yellow] -> [COLOR white]Clube de Milha de Altura[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T12/LS-T12E02.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yaUAUKSHGVsWxjz2YhBmuHkkFvN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/02.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T12E03[COLOR yellow] -> [COLOR white]O Bosque Do Diabo[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T12E03[COLOR yellow] -> [COLOR white]O Bosque Do Diabo[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T12/LS-T12E03.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yaUAUKSHGVsWxjz2YhBmuHkkFvN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/03.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T12E04[COLOR yellow] -> [COLOR white]Areia Preso[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T12E04[COLOR yellow] -> [COLOR white]Areia Preso[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T12/LS-T12E04.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yaUAUKSHGVsWxjz2YhBmuHkkFvN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/04.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T12E05[COLOR yellow] -> [COLOR white]Estrelas Contra A Tempestade[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T12E05[COLOR yellow] -> [COLOR white]Estrelas Contra A Tempestade[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T12/LS-T12E05.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yaUAUKSHGVsWxjz2YhBmuHkkFvN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/05.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T12E06[COLOR yellow] -> [COLOR white]Uma Teia Emaranhada No Texas[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T12E06[COLOR yellow] -> [COLOR white]Uma Teia Emaranhada No Texas[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T12/LS-T12E06.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yaUAUKSHGVsWxjz2YhBmuHkkFvN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/06.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T12E07[COLOR yellow] -> [COLOR white]Ataque De Tubarão[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T12E07[COLOR yellow] -> [COLOR white]Ataque De Tubarão[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T12/LS-T12E07.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yaUAUKSHGVsWxjz2YhBmuHkkFvN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/07.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-<item><title>[COLOR orange][B]LS-T12E08[COLOR yellow] -> [COLOR white]Negócio Macaco[/B][/COLOR]</title></title>
+<item><title>[COLOR orange][B]T12E08[COLOR yellow] -> [COLOR white]Negócio Macaco[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T12/LS-T12E08.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yaUAUKSHGVsWxjz2YhBmuHkkFvN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/08.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-item><title>[COLOR orange][B]LS-T12E09[COLOR yellow] -> [COLOR white]Ok, BoomerIndisponível[/B][/COLOR]</title></title>
+item><title>[COLOR orange][B]LS-T12E09[COLOR yellow] -> [COLOR white]Ok, BoomerIndisponível[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T12/LS-T12E09.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yaUAUKSHGVsWxjz2YhBmuHkkFvN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/09.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-item><title>[COLOR orange][B]LS-T12E10[COLOR yellow] -> [COLOR white]Morde-meIndisponível[/B][/COLOR]</title></title>
+item><title>[COLOR orange][B]LS-T12E10[COLOR yellow] -> [COLOR white]Morde-meIndisponível[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T12/LS-T12E10.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yaUAUKSHGVsWxjz2YhBmuHkkFvN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/10.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
-item><title>[COLOR orange][B]LS-T12E11[COLOR yellow] -> [COLOR white]Venha Inferno E Água Negra[/B][/COLOR]</title></title>
+item><title>[COLOR orange][B]LS-T12E11[COLOR yellow] -> [COLOR white]Venha Inferno E Água Negra[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</title></title>
 <link>https://ls.lsnew.workers.dev/0:/FLMS/6AVT-CL/Larg.Pelados/2013.Larg.e.Pel.a.Serie/T12/LS-T12E11.mkv</link>
-<thumbnail>https://image.tmdb.org/t/p/original/yaUAUKSHGVsWxjz2YhBmuHkkFvN.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart></item>
+<thumbnail>https://ls.lsnew.workers.dev/2:/SRS/11.jpg</thumbnail><fanart>https://image.tmdb.org/t/p/original/hnGWafrtUTqQgCTyIAcsAIaYmmZ.jpg</fanart>
+[COLOR black].[/COLOR]
+<info>[COLOR orange]INFO[COLOR yellow] -> [COLOR white]ESCOLHA O ITEM
+     CLIQUE E AGUARDE
+A REPRODUÇÃO INICIA EM 40s.[/COLOR]</info></item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR black].[/B][/COLOR]</title>				
+<title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>			
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
-<title>[COLOR orange][B]O VÍDEO NÃO ABRIU ?[/B][/COLOR]</title></title>
+<title>[COLOR orange][B]ERROS ? CHAME O SUPORTE[/B][/COLOR]</title>	
 <link>ignoreme</link>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-<item>
-<title>[COLOR orange][B]NÃO ENCONTROU O QUE QUERIA ?[/B][/COLOR]</title></title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-<item>
-<title>[COLOR orange][B]CHAME O SUPORTE , QUE RESOLVEMOS.[/B][/COLOR]</title></title>				
-<link>ignoreme</link>				
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>				
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>			
+<thumbnail>https://i.ibb.co/BnzRHfz/ERROS-SUPORTE.png</thumbnail>				
+<fanart>https://i.ibb.aco/6N5djff/FAN-2.png</fanart>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
