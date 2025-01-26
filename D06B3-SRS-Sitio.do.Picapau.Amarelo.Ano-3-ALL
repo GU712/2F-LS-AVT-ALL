@@ -33,6 +33,28 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]O Curupira[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/D06B3B-SRS-O.Curupira-ALL</externallink>
+<thumbnail>https://ls.lsnew.workers.dev/0:/NCNS/SRS/Sitio.do.Pic.Amar/1979-Ano-3/T02ED17-O.Curupira/capa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dZ7cfEmjITHm8LpmApaubWG8Tzd.jpg</fanart>
+<info>[COLOR white]Assista aqui a série: 
+[B]O Curupira
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1979
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FANTASIA
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]20 EPs - HD DUB
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]O Saci Pererê quer ir embora para um lugar onde ele possa fazer suas traquinagens sossegado. 
+Emília serra um pedaço de bambu com um sacizinho dentro, que ela quer só para si, e desperta a raiva do Curupira.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
@@ -174,4 +196,3 @@ USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
