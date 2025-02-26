@@ -125,17 +125,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Casal 20 (1979-1983) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C8-SRS-Casal.20-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/rK7eHDVQVYwwuxf91rmSNn6ykQn.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/tX3SxtATzAvCGmta1mbzEZPYY3B.jpg</fanart>
+<name>[COLOR white][B]Casal 20 (1979-1983) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C008-SRS-Casal.20.1979-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/rK7eHDVQVYwwuxf91rmSNn6ykQn.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/tX3SxtATzAvCGmta1mbzEZPYY3B.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Casal 20
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]INCOMPLETA
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1979 a 1983
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]05 TEMPS - 110 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Jonathan e Jennifer Hart formam um casal bem viajado com um talento e tanto para se deparar com mistérios em qualquer parte.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]<TEXTO>
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
@@ -147,8 +150,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Daktari (1966) - INCOMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C14-SRS-Daktari-ALL</externallink>
+<name>[COLOR white][B]Daktari (1966) - INCOMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C014-SRS-Daktari.1966-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/snopJzlOhhjG5LKkW2SZ6A9YA0W.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3hKMKPAWzbsjqFQkjg7I22kiJTu.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -157,7 +160,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]ANO - 1966
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 071 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Marshall Thompson como Dr. Marsh Tracy, um veterinário do fictício Centro de Estudos de Comportamento Animal Wameru na África Oriental.
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Marshall Thompson como Dr. Marsh Tracy, um veterinário do fictício Centro de 
+Estudos de Comportamento Animal Wameru na África Oriental.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
