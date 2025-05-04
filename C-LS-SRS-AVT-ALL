@@ -428,8 +428,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Os Gatões (1979-1984) - ATUALIZANDO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/C11-SRS-Os.Gatoes-ALL</externallink>
+<name>[COLOR white][B]Os Gatões (1979-1984) - ATUALIZANDO[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/C011-SRS-Os.Gatoes.1979-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/d1ipbzrZafBif65iq5ImSLtaFRW.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/yRXB3MBpqAh1HX3g0NhzRi6oFVn.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -437,8 +437,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1979 a 1984
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
-[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPS - 00 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No Condado de Hazzard, do estado da Geórgia, Tio Jesse, comanda um rancho onde ele produzia e comercializava uísque clandestino.
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]07 TEMPS - 147  EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]No Condado de Hazzard, do estado da Geórgia, Tio Jesse, comanda um rancho onde 
+ele produzia e comercializava uísque clandestino.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
