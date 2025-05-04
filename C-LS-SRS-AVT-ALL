@@ -535,8 +535,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR orange][B]S-LS[COLOR yellow] -> [COLOR white]Tarzan (1966-1967) - COMPLETA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D4B-SRS-Tarzan-ALL</externallink>
+<name>[COLOR white][B]Tarzan (1966-1967) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/main/D04B-SRS-Tarzan-ALL</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/keL3WMJW45o7rd5aKDPMG3bgf1p.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/m5hwoZJVMBxHQ5RpKwvqN1NlUIF.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
@@ -545,7 +545,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 [COLOR orange]ANOS[COLOR yellow] -> [COLOR white]1966 a 1967
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
 [COLOR orange]INFO[COLOR yellow] -> [COLOR white]02 TEMPs - 57 EPs
-[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]No coração da selva, uma criança foi encontrada e criada pelos grandes macacos. O menino recebeu o nome de Tarzan
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]No coração da selva, uma criança foi encontrada e criada pelos grandes macacos. 
+O menino recebeu o nome de Tarzan
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
 [/COLOR]</info>
 </channel>
 </channels>
