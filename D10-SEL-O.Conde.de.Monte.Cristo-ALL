@@ -13,11 +13,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]O Conde de Monte Cristo (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/D10B-SRS-O.Conde.de.Monte.Cristo-ALL</externallink>
-<thumbnail>https://i.ibb.co/Hprt6M70/ESP-MONTECRISTO-SRS.png</thumbnail>
+<name>[COLOR white][B]O Conde de Monte Cristo (Filmes)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/D10A-FLM-O.Conde.de.Monte.Cristo-ALL</externallink>
+<thumbnail>https://i.ibb.co/rfsptRSD/ESP-MONTECRISTO-FLM.png</thumbnail>
 <fanart>https://i.ibb.co/CKqVvTB7/ESP-MONTECRISTO-FAN.png</fanart>
-<info>[COLOR white]Conheça a seção de séries: 
+<info>[COLOR white]Conheça a seção de filmes: 
 [B]O Conde de Monte Cristo
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
@@ -30,12 +30,13 @@ Avise o SUPORTE AO USUÁRIO.
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
-<name>[COLOR white][B]O Conde de Monte Cristo (Desenhos)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
-<externallink><LINKRAWPAGEDSH></externallink>
-<thumbnail><CAPADACOLDSH></thumbnail>
+<channels>
+<channel>
+<name>[COLOR white][B]O Conde de Monte Cristo (Séries)[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2F-LS-AVT-ALL/refs/heads/main/D10B-SRS-O.Conde.de.Monte.Cristo-ALL</externallink>
+<thumbnail>https://i.ibb.co/Hprt6M70/ESP-MONTECRISTO-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/CKqVvTB7/ESP-MONTECRISTO-FAN.png</fanart>
-<info>[COLOR white]Conheça a seção de desenhos: 
+<info>[COLOR white]Conheça a seção de séries: 
 [B]O Conde de Monte Cristo
 [COLOR orange]STATUS[COLOR yellow] -> [COLOR white]ATUALIZANDO
 [COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]AVENTURA
@@ -189,4 +190,3 @@ USE ESSE LINK DE ATALHO[/COLOR]</info>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
